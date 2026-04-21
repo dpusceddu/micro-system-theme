@@ -1,0 +1,7 @@
+[
+    {
+        "Name": "system-theme",
+        "Description": "Automatically switches micro's colorscheme when macOS changes between light and dark appearance.",
+        "Website": "https://github.com/daniele/micro-system-theme"
+    }
+]
